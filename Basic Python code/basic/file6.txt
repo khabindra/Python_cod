@@ -1,0 +1,2 @@
+Sum of numbers: 55.0
+Average of numbers: 5.5

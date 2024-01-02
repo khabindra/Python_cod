@@ -1,0 +1,1 @@
+The number of letters in the file1.txt is: 486
